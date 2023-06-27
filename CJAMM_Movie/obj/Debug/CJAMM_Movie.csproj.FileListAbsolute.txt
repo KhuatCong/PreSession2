@@ -1,0 +1,11 @@
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\bin\Debug\CJAMM_Movie.exe.config
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\bin\Debug\CJAMM_Movie.exe
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\bin\Debug\CJAMM_Movie.pdb
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.csproj.AssemblyReference.cache
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.Home.resources
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.Login.resources
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.Properties.Resources.resources
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.csproj.GenerateResource.cache
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.csproj.CoreCompileInputs.cache
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.exe
+D:\Winform C#\CJAMM_Movie\CJAMM_Movie\obj\Debug\CJAMM_Movie.pdb
